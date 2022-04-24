@@ -3,26 +3,25 @@
     {
     "orgId" : "69114a52-b4e6-11ec-b909-0242ac120002",
     "name" : 
-    {
+      {
         "prefix" : "Mr",
         "first" : "John",
         "middle" : "M",
         "last" : "Smith",
         "suffix" : "Jr",
         "preferred" : "Jon"
-    }
+      }
     "email" : "john.smith@gmail.com",
     "businessPhone" : "12345678901",
     "businessAddress" : 
-    {
+      {
         "country" : "USA",
         "state" : "Arizona",
         "city" : "Presscott",
         "street1" : "063 Jamel Mountain",
         "street2" : "suite 783",
         "zipCode" : "86301"
+      }
     }
-}
-
   }
 }
